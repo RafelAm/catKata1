@@ -45,3 +45,6 @@ public class PeacefulYard {
             
         }
       }
+        
+      return true;
+    }
